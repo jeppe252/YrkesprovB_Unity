@@ -13,11 +13,11 @@ Resurser för Unity
 
 ## Kostande Assets 
 **Här är en av de bästa kostande assets**
-- [Trivia Spel](https://assetstore.unity.com/packages/templates/packs/full-trivia-game-multiplayer-single-player-api-database-admin-pa-203464)
-- [3D Låg Poly Fordon](https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-3d-vehicles-game-pack-141885)
-- [Djur I Skogen](https://assetstore.unity.com/packages/3d/characters/animals/mammals/forest-animals-142554)
-- [Politik Människor](https://assetstore.unity.com/packages/3d/characters/humanoids/humans/politicians-mega-pack-111079)
-- [Bästa Naturen](https://assetstore.unity.com/packages/templates/systems/nature-renderer-studio-license-182632)
+- [Trivia Spel](https://assetstore.unity.com/packages/templates/packs/full-trivia-game-multiplayer-single-player-api-database-admin-pa-203464) (1299$)
+- [3D Låg Poly Fordon](https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-3d-vehicles-game-pack-141885) (999$)
+- [Djur I Skogen](https://assetstore.unity.com/packages/3d/characters/animals/mammals/forest-animals-142554) (100$ REA)
+- [Politik Människor](https://assetstore.unity.com/packages/3d/characters/humanoids/humans/politicians-mega-pack-111079) (99.60$ REA)
+- [Bästa Naturen](https://assetstore.unity.com/packages/templates/systems/nature-renderer-studio-license-182632) (849.99$)
 
 ## Unity Handledningar
 **Olika videon om unity, där du lär dig hur du använder det**
